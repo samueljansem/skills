@@ -3,7 +3,7 @@
 Personal agent skills, installable with [`skills`](https://www.npmjs.com/package/skills):
 
 ```sh
-npx skills add <this-repo> -g
+npx skills add samueljansem/skills -g
 ```
 
 | Skill | What it does |
